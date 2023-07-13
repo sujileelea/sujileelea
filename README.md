@@ -2,7 +2,7 @@
 <img src="https://github.com/sujileelea/sujileelea/assets/97840728/2b4b4c66-ab19-4354-94d7-1fb70f52025d" width="25%">
 
 
-# _good day to die_
+# _  good day to die_
 
 <!--
 **sujileelea/sujileelea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
