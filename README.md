@@ -1,5 +1,5 @@
 
-<img src="https://github.com/sujileelea/sujileelea/assets/97840728/2b4b4c66-ab19-4354-94d7-1fb70f52025d" width="50%">
+<img src="https://github.com/sujileelea/sujileelea/assets/97840728/2b4b4c66-ab19-4354-94d7-1fb70f52025d" width="25%">
 
 
 # _good day to die_
