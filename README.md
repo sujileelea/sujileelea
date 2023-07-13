@@ -1,3 +1,7 @@
+
+![pngwing com-38](https://github.com/sujileelea/sujileelea/assets/97840728/2b4b4c66-ab19-4354-94d7-1fb70f52025d)
+
+
 # _good day to die_
 
 <!--
