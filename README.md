@@ -3,9 +3,10 @@
 
 
 # _good day to die_
+<br>
 
 ### iOS dev: SwiftUI Combine MVVM
-- sharking0928 -> eelijus -> roseroirequin -> sujileelea
+sharking0928 -> eelijus -> roseroirequin -> sujileelea
 
 <p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sujileelea" alt="sujileelea" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujileelea&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/></p>
 
