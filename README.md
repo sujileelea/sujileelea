@@ -14,13 +14,13 @@ sharking0928 -> eelijus -> roseroirequin -> sujileelea
 
 
 #### Service
-[- Mocacong](https://apps.apple.com/kr/app/mocacong/id6446925939) - OnSale
+[- Mocacong](https://apps.apple.com/kr/app/mocacong/id6446925939) : **PM, iOS, Design** - OnSale
 
-[- eco%](https://github.com/ecopercent)
+[- eco%](https://github.com/ecopercent) : : **PM, iOS**
 
-[- CoinSert](https://apps.apple.com/kr/app/coinsert/id1659317461) - OnSale
+[- CoinSert](https://apps.apple.com/kr/app/coinsert/id1659317461) : **PM, iOS, Design** - OnSale
 
-[- NeaToDo](https://apps.apple.com/kr/app/neatodo/id6444605722) - OnSale
+[- NeaToDo](https://apps.apple.com/kr/app/neatodo/id6444605722) : **PM, iOS, Design** - OnSale
 
 <!--
 **sujileelea/sujileelea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
