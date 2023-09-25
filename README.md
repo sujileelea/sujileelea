@@ -1,14 +1,12 @@
 
+# _good day to die_
 <img src="https://github.com/sujileelea/sujileelea/assets/97840728/2b4b4c66-ab19-4354-94d7-1fb70f52025d" width="25%">
 
 
-# _good day to die_
-sharking0928 -> eelijus -> roseroirequin -> sujileelea
 <br>
 <br>
 <br>
 
-## iOS dev: SwiftUI Combine MVVM
 ### Service - OnSale
 <table>
   <tr>
