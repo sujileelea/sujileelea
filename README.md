@@ -18,14 +18,14 @@
 <br>
 <br>
 <br>
-<br>
-<a href="https://apps.apple.com/kr/app/mocacong/id6446925939">
+
+<!-- <a href="https://apps.apple.com/kr/app/mocacong/id6446925939">
   <img src="https://github.com/sujileelea/sujileelea/assets/97840728/de9813d2-3c5f-43e2-b272-a7f62fdca94d" alt="mocacong" style="width: 75px; height: 75px;">
 </a>
 <div>
   <a href="https://apps.apple.com/kr/app/mocacong/id6446925939">mocacong</a>
 </div>
-<strong>PM, iOS, Design</strong>
+PM, iOS, Design
 
 <br>
 <br>
@@ -41,7 +41,7 @@
     <a href="https://apps.apple.com/kr/app/coinsert/id1659317461">CoinSert</a>
   </div>
 </div>
-<strong>PM, iOS, Design</strong>
+PM, iOS, Design
 
 <br>
 <br>
@@ -55,10 +55,16 @@
     <a href="https://apps.apple.com/kr/app/neatodo/id6444605722">NeaToDo</a>
   </div>
 </div>
-<strong>PM, iOS, Design</strong>
+PM, iOS, Design -->
 
 
 <br>
+
+| <div style="padding-top: 10px;"><img src="https://github.com/sujileelea/sujileelea/assets/97840728/de9813d2-3c5f-43e2-b272-a7f62fdca94d" alt="mocacong" width="75" height="75"></div> | <div style="padding-top: 10px;"><img src="https://github.com/sujileelea/sujileelea/assets/97840728/37357e0a-08e0-4c93-a68c-bc2afdbf095f" alt="CoinSert" width="75" height="75"></div> | <div style="padding-top: 10px;"><img src="https://github.com/sujileelea/sujileelea/assets/97840728/f43bef0c-e6f9-44d8-b329-6735f71e7cf0" alt="NeaToDo" width="75" height="75"></div> |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                         [mocacong](https://apps.apple.com/kr/app/mocacong/id6446925939)                                                        |                                                       [CoinSert](https://apps.apple.com/kr/app/coinsert/id1659317461)                                                      |                                                       [NeaToDo](https://apps.apple.com/kr/app/neatodo/id6444605722)                                                      |
+|                                                                 PM, iOS, Design                                                                |                                                                  PM, iOS, Design                                                                 |                                                                  PM, iOS, Design                                                                 |
+
 
 ##    
 
